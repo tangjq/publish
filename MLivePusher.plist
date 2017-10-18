@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://220.181.73.131:80/live/MLivePusher.ipa</string>
+					<string>https://raw.githubusercontent.com/tangjq/publish/master/MLivePusher.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://220.181.73.131:80/live/img57.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://220.181.73.131:80/live/img512.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
